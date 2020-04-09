@@ -9,6 +9,7 @@
 ev1 = EventVenue.create!(name: "Estadio San Carlos de Apoquindo",
                      address: "Circunvalación Las Flores 13000, Las Condes, Región Metropolitana",
                      capacity: 20000)
+
 ev2 = EventVenue.create!(name: "Velódromo Estadio Nacional",
                      address: "Av. Pedro de Valdivia 5140. Santiago, Chile",
                      capacity: 10000)
